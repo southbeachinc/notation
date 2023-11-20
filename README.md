@@ -1,5 +1,6 @@
 # notation
 Specifications of Southbeach Notation  
+https://www.southbeachinc.com/notation.html  
   
 Southbeach Notation © 2005-2023 by Howard Smith and Mark Burnett is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/  
   
